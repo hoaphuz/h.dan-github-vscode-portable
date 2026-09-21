@@ -1,4 +1,4 @@
-# huongdan-github-va-vscode
+# Hướng dẫn Github và VScode
 Hướng dẫn dùng Github và Visual Studio Code (VScode) portable gọn nhẹ dành cho người mới
 
 Bản portable nghĩa là bản chạy sẵn, không cần cài đặt gì 
