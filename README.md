@@ -5,7 +5,6 @@ Bản portable nghĩa là bản chạy sẵn, không cần cài đặt gì
 
 Trong số các phần mềm viết code thì vscode hỗ trợ mạnh nhất, có thể cài thêm nhiều tiện ích, và còn miễn phí
 
-
 [Vào trang này để tải VScode](https://code.visualstudio.com/Download)
 
 ![Trang Download Visual Studio Code hiển thị các tùy chọn tải xuống cho Windows và Linux; mục .zip của Windows, gồm liên kết x64 và Arm64, được khoanh đỏ để hướng dẫn chọn bản portable](/Hinhanh/chon_tai_vscode_zip.jpg)
