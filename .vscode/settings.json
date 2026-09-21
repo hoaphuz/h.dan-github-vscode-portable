@@ -1,0 +1,16 @@
+{
+  // Tự động cập nhật đường dẫn Markdown khi đổi tên hoặc di chuyển file/thư mục
+  "markdown.updateLinksOnFileMove.enabled": "prompt",
+
+  // Bật tính năng sao chép file khi kéo thả hoặc dán từ clipboard ngoài
+  "markdown.editor.drop.copyIntoWorkspace": "mediaFiles",
+  "markdown.editor.filePaste.copyIntoWorkspace": "mediaFiles",
+
+  // Chỉ định thư mục lưu ảnh: ./assets cùng cấp với file Markdown đang mở
+  "markdown.copyFiles.destination": {
+    "**/*": "./Hinhanh/${fileName}"
+  },
+
+  // Tùy chọn: Tự động ghi đè file nếu bị trùng tên thay vì báo lỗi
+  "markdown.copyFiles.overwriteBehavior": "nameIncrementally"
+}
