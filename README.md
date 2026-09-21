@@ -12,5 +12,5 @@ Github là dịch vụ lưu trữ, chia sẻ mã nguồn lớn
 Cung cấp nhiều chức năng miễn phí cho người dùng cá nhân có thể dễ dàng phát triển dự án riêng
 
 
-👉 [Xem hướng dẫn](https://hoaphuz.github.io/h.dan-github-vscode-portable/#/caidat)
+👉 [Xem hướng dẫn](https://hoaphuz.github.io/h.dan-github-vscode-portable/#/caidat-vscode-git)
 
