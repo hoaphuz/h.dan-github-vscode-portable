@@ -5,4 +5,4 @@
 
 * **Hướng dẫn**
   * [Hướng dẫn GitHub & VSCode](README.md)
-  * [Cài đặt](caidat.md)
+  * [Cài đặt VScode và Git](caidat-vscode-git.md)
