@@ -58,6 +58,7 @@ ThuMuc_Phanmem/
 
 
 Nhập >Preferences: Open User Settings (JSON) vào ô tìm kiếm để mở tệp cấu hình
+<img src="Hinhanh/Preferences_Open_User_Settings_(JSON)_20260921-lr.jpg" alt="Giao diện Edit Settings JSON của VS Code, nơi người dùng nhập lệnh Preferences: Open User Settings (JSON) để mở tệp cấu hình JSON" width="400">
 Dán đoạn mã phía dưới vào để kết nối với Git
 Lưu ý thay thế đúng đường dẫn Git thực tế
 
@@ -75,11 +76,13 @@ Lưu ý thay thế đúng đường dẫn Git thực tế
 ```
 
 
+### Ktra kết quả
 
 
+Nếu đoạn mã trên kết nối thành công thì khi mở Teminal lên thì sẽ mặc định là git-bash
+<img src="Hinhanh/terminal_git_bash_20260921-lv.jpg" alt="Menu terminal của Visual Studio Code trên giao diện nền tối đang mở, với mục Git-Bash (Default) được khoanh đỏ và được chọn làm cấu hình mặc định; các mục khác gồm New Terminal, PowerShell, Command Prompt và JavaScript Debug Terminal" width="400">
 
-
-
+<img src="Hinhanh/terminal_git_bash_20260921-lt.jpg" alt="Giao diện Terminal của Visual Studio Code nền tối đang mở phiên bash; nút chọn cấu hình hiển thị chữ bash ở phía trên được khoanh đỏ. Trong cửa sổ dòng lệnh có đường dẫn /g/My Drive/Github/h.dan-github-vscode-portables, dấu nhắc lệnh và dòng hướng dẫn Type copilot to use Copilot CLIi" width="400">
 
 
 
