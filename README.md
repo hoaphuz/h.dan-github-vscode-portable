@@ -1,6 +1,6 @@
 # Hướng dẫn Github và VScode
 
-<div style="font-size: 110%;">
+<div style="font-size: 120%;">
 
 Hướng dẫn dùng Github và Visual Studio Code (VScode) portable gọn nhẹ dành cho người mới
 
