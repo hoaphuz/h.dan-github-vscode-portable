@@ -5,4 +5,4 @@
 
 * **Hướng dẫn**
   * [Hướng dẫn GitHub & VSCode](README.md)
-  * [Thủ thuật khác](other-notes.md)
+  * [Cài đặt](caidat.md)
