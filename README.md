@@ -1,6 +1,6 @@
 # Hướng dẫn Github và VScode
 
-<div style="font-size: 120%;">
+<font size="4">
 
 Hướng dẫn dùng Github và Visual Studio Code (VScode) portable gọn nhẹ dành cho người mới
 
@@ -26,6 +26,6 @@ VScode trước khi chạy phải tạo thư mục data trong thư mục chươn
 
 Nếu không dữ liệu phần mềm sẽ tự động tạo ở thư mục người dùng ổ C, và lỗi chức năng, do đây là bản chạy sẵn
 
-</div>
+</font>
 
 
