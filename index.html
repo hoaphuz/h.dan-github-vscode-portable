@@ -2,17 +2,53 @@
 <html lang="vi">
 <head>
   <meta charset="UTF-8">
-  <title>Ghi chú cá nhân</title>
+  <title>Hướng dẫn Github và VScode</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <!-- Theme mặc định của Docsify -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+
+  <!-- Tùy chỉnh tăng kích thước chữ tổng thể thêm 30% -->
+  <style>
+    /* Tăng kích thước gốc cho toàn bộ các phần tử sử dụng rem (tiêu đề h1-h6, code, giãn dòng...) */
+    html {
+      font-size: 130%;
+    }
+
+    /* Tăng kích thước chữ nội dung bài viết (mặc định theme là 15px -> tăng 30% thành 19.5px) */
+    body {
+      font-size: 19.5px;
+    }
+
+    /* Tăng cỡ chữ menu danh mục bên trái (sidebar - mặc định là 14px -> tăng 30% thành 18.2px) */
+    .sidebar ul li a {
+      font-size: 18.2px;
+    }
+
+    /* Tăng cỡ chữ trong ô tìm kiếm và kết quả tìm kiếm */
+    .search input {
+      font-size: 18px;
+    }
+
+    .search h2 {
+      font-size: 22px;
+    }
+
+    .search p {
+      font-size: 18px;
+    }
+
+    /* Tăng kích thước phím tắt kbd nếu có dùng */
+    kbd {
+      font-size: 15px !important;
+    }
+  </style>
 </head>
 <body>
   <div id="app">Đang tải...</div>
   <script>
     window.$docsify = {
-      name: 'My Notes',
+      name: 'Danh sách trang', // Tên hiển thị trên góc trái
       repo: '', // Có thể điền link repo GitHub nếu muốn hiển thị icon góc phải
       loadSidebar: true, // Bật sidebar
       subMaxLevel: 3,    // Tự gom các thẻ h2, h3 trong bài viết vào mục lục
